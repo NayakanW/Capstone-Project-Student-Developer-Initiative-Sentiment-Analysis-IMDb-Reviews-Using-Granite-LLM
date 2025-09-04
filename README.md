@@ -31,3 +31,16 @@ Jalankan di Google Colab atau lokal Python environment.
 
 ```bash
 !pip install langchain_community replicate pandas scikit-learn matplotlib
+
+```
+
+## 🔑 API Token
+Daftarkan akun di Replicate untuk mendapatkan API Token.
+
+Set token di Colab:
+```bash
+import os
+os.environ["REPLICATE_API_TOKEN"] = "YOUR_API_TOKEN"
+
+```
+

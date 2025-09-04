@@ -18,7 +18,6 @@ Proyek ini bertujuan untuk melakukan **analisis sentimen** terhadap ulasan film 
 
 ## 📂 Struktur Proyek
 .
-
 ├── IMDB Dataset.csv        # Dataset utama  
 ├── granite_sentiment.ipynb # Notebook utama (pipeline)  
 ├── README.md               # Dokumentasi  

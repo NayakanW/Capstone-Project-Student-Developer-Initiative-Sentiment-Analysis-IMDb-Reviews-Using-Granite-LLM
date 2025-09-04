@@ -26,6 +26,10 @@ Proyek ini bertujuan untuk melakukan **analisis sentimen** terhadap ulasan film 
 
 ---
 
+## 📊 Sumber Dataset
+Dataset IMDB Dataset.csv dapat di download melalui link berikut:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 ## ⚙️ Instalasi
 Jalankan di Google Colab atau lokal Python environment.
 
